@@ -2,7 +2,6 @@ I have many years of experience in auditing and fuzzing of C/C++ programs.
 
 For consulting requests feel free to reach me out via email gln4q@proton.me
 
-Currently rank 95 on Immunefi.
 
 ### Immunefi competitions
 
