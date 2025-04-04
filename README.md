@@ -3,8 +3,6 @@ I have some experience in auditing and fuzzing of C/C++ programs.
 Switching to Web3 security right now, this is quite challenging and interesting task.
 
 
-For any questions feel free to reach me out via email gln4q@proton.me
-
 
 ### Immunefi competitions
 
