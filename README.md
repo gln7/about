@@ -1,4 +1,4 @@
-Years of experience in C/C++ auditing and fuzzing. 
+Years of experience in C/C++ vulnerability research and fuzzing. 
 
 
 
