@@ -1,7 +1,5 @@
 Years of experience in C/C++ auditing and fuzzing. 
 
-Switching to Web3 security right now, this is quite challenging and interesting task.
-
 
 
 ### Immunefi competitions
