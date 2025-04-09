@@ -1,4 +1,4 @@
-Years of experience in C/C++ vulnerability research and fuzzing. 
+Years of experience in C/C++ source code reviews and fuzzing.
 
 
 
