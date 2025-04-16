@@ -1,5 +1,3 @@
-Years of experience in C/C++ source code reviews and fuzzing.
-
 
 
 ### Immunefi competitions
