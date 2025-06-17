@@ -1,9 +1,17 @@
+# Immunefi competitions
 
+## Firedancer boost
+  
+    - Rank #2
+    - Finished with 5 confirmed issues. Actually found more, some bugs slipped through the cracks. 
+    - Among interesting bugs are empty UDP packet crash and a remote heap overflow. 
+    - Most of the bugs were found during source code review.  
+    
 
-### Immunefi competitions
-
-|  Description                                                                                                                                                   |  Leaderboard                                                                     |  Findings                                                                                                                           |  Comments                                                                                                                             |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|  Firedancer, new Solana validator - https://github.com/firedancer-io/firedancer/.  Quic and shred tiles, sandbox and inter-tile communications were in scope.  | Rank #2 https://immunefi.com/audit-competition/firedancer-boost/leaderboard/#top | Finished with 5 confirmed issues.  Found a couple of interesting bugs, including empty UDP packet crash and a remote heap overflow. |  Most of the bugs were found during source code review.  Due to time limits had to use ASAN/MSAN, found a couple of issues with them. |
-| Ethereum Attackathon https://immunefi.com/audit-competition/ethereum-protocol-attackathon/information/                                                         | Rank #2                                                                          | Finished with 7 confirmed issues. There were interesting findings, like remote crashes in Nimbus Eth2 and infinite loop in Erigon.  |  Wrote 20+ fuzzers during the contest. Spent most of the time with consensus clients.                                                 |
-|                                                                                                                                                                |                                                                                  |                                                                                                                                     |                                                                                                                                       |
+## Ethereum Attackathon                                          
+    
+    - Rank #2
+    - Finished with 7 confirmed issues. 
+    - Interesting issues are remote crashes in Nimbus Eth2 and infinite loop in Erigon. 
+    - Wrote 20+ fuzzers during the contest. 
+                                                 
